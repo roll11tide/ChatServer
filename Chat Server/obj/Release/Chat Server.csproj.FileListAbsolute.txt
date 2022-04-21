@@ -1,0 +1,11 @@
+W:\Documents\Visual Studio 2015\Projects\Chat Server\Chat Server\bin\Release\Chat Server.exe.config
+W:\Documents\Visual Studio 2015\Projects\Chat Server\Chat Server\bin\Release\Chat Server.exe
+W:\Documents\Visual Studio 2015\Projects\Chat Server\Chat Server\bin\Release\Chat Server.pdb
+W:\Documents\Visual Studio 2015\Projects\Chat Server\Chat Server\obj\Release\Chat Server.exe
+W:\Documents\Visual Studio 2015\Projects\Chat Server\Chat Server\obj\Release\Chat Server.pdb
+D:\Documents\Visual Studio 2015\Projects\Chat Server\Chat Server\bin\Release\Chat Server.exe.config
+D:\Documents\Visual Studio 2015\Projects\Chat Server\Chat Server\bin\Release\Chat Server.exe
+D:\Documents\Visual Studio 2015\Projects\Chat Server\Chat Server\bin\Release\Chat Server.pdb
+D:\Documents\Visual Studio 2015\Projects\Chat Server\Chat Server\obj\Release\Chat Server.exe
+D:\Documents\Visual Studio 2015\Projects\Chat Server\Chat Server\obj\Release\Chat Server.pdb
+W:\Documents\Visual Studio 2015\Projects\Chat Server\Chat Server\obj\Release\Chat Server.csprojResolveAssemblyReference.cache

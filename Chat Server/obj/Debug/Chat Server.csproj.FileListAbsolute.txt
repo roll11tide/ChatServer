@@ -1,0 +1,17 @@
+W:\Documents\Visual Studio 2015\Projects\Chat Server\Chat Server\bin\Debug\Chat Server.exe.config
+W:\Documents\Visual Studio 2015\Projects\Chat Server\Chat Server\obj\Debug\Chat Server.exe
+W:\Documents\Visual Studio 2015\Projects\Chat Server\Chat Server\obj\Debug\Chat Server.pdb
+W:\Documents\Visual Studio 2015\Projects\Chat Server\Chat Server\bin\Debug\Chat Server.exe
+W:\Documents\Visual Studio 2015\Projects\Chat Server\Chat Server\bin\Debug\Chat Server.pdb
+W:\Documents\Visual Studio 2015\Projects\Chat Server\Chat Server\obj\Debug\Chat Server.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Chat Server\Chat Server\bin\Debug\Chat Server.exe.config
+D:\Documents\Visual Studio 2015\Projects\Chat Server\Chat Server\bin\Debug\Chat Server.exe
+D:\Documents\Visual Studio 2015\Projects\Chat Server\Chat Server\bin\Debug\Chat Server.pdb
+D:\Documents\Visual Studio 2015\Projects\Chat Server\Chat Server\obj\Debug\Chat Server.exe
+D:\Documents\Visual Studio 2015\Projects\Chat Server\Chat Server\obj\Debug\Chat Server.pdb
+C:\Users\Jesse\Dropbox\Projects\VS\Chat Server\Chat Server\bin\Debug\Chat Server.exe.config
+C:\Users\Jesse\Dropbox\Projects\VS\Chat Server\Chat Server\obj\Debug\Chat Server.exe
+C:\Users\Jesse\Dropbox\Projects\VS\Chat Server\Chat Server\obj\Debug\Chat Server.pdb
+C:\Users\jesse\Box\Dropbox Project DL\VS\Chat Server\Chat Server\obj\Debug\Chat Server.csprojAssemblyReference.cache
+C:\Users\jesse\Box\Dropbox Project DL\VS\Chat Server\Chat Server\obj\Debug\Chat Server.exe
+C:\Users\jesse\Box\Dropbox Project DL\VS\Chat Server\Chat Server\obj\Debug\Chat Server.pdb
